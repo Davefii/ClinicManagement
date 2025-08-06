@@ -1,0 +1,9 @@
+D:\File-String-Library-Project\Clinic Managment\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\File-String-Library-Project\Clinic Managment\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\File-String-Library-Project\Clinic Managment\DataAccessLayer\bin\Debug\DataAccessSettings.dll
+D:\File-String-Library-Project\Clinic Managment\DataAccessLayer\bin\Debug\DataAccessSettings.pdb
+D:\File-String-Library-Project\Clinic Managment\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\File-String-Library-Project\Clinic Managment\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\File-String-Library-Project\Clinic Managment\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+D:\File-String-Library-Project\Clinic Managment\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\File-String-Library-Project\Clinic Managment\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

@@ -1,0 +1,11 @@
+D:\File-String-Library-Project\Clinic Managment\BussinessLayer\obj\Debug\BussinessLayer.csproj.AssemblyReference.cache
+D:\File-String-Library-Project\Clinic Managment\BussinessLayer\obj\Debug\BussinessLayer.csproj.CoreCompileInputs.cache
+D:\File-String-Library-Project\Clinic Managment\BussinessLayer\bin\Debug\BussinessLayer.dll
+D:\File-String-Library-Project\Clinic Managment\BussinessLayer\bin\Debug\BussinessLayer.pdb
+D:\File-String-Library-Project\Clinic Managment\BussinessLayer\bin\Debug\DataAccessLayer.dll
+D:\File-String-Library-Project\Clinic Managment\BussinessLayer\bin\Debug\DataAccessSettings.dll
+D:\File-String-Library-Project\Clinic Managment\BussinessLayer\bin\Debug\DataAccessLayer.pdb
+D:\File-String-Library-Project\Clinic Managment\BussinessLayer\bin\Debug\DataAccessSettings.pdb
+D:\File-String-Library-Project\Clinic Managment\BussinessLayer\obj\Debug\Bussines.E1038C4E.Up2Date
+D:\File-String-Library-Project\Clinic Managment\BussinessLayer\obj\Debug\BussinessLayer.dll
+D:\File-String-Library-Project\Clinic Managment\BussinessLayer\obj\Debug\BussinessLayer.pdb

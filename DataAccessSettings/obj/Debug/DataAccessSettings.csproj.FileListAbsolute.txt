@@ -1,0 +1,6 @@
+D:\File-String-Library-Project\Clinic Managment\DataAccessSettings\bin\Debug\DataAccessSettings.dll
+D:\File-String-Library-Project\Clinic Managment\DataAccessSettings\bin\Debug\DataAccessSettings.pdb
+D:\File-String-Library-Project\Clinic Managment\DataAccessSettings\obj\Debug\DataAccessSettings.csproj.AssemblyReference.cache
+D:\File-String-Library-Project\Clinic Managment\DataAccessSettings\obj\Debug\DataAccessSettings.csproj.CoreCompileInputs.cache
+D:\File-String-Library-Project\Clinic Managment\DataAccessSettings\obj\Debug\DataAccessSettings.dll
+D:\File-String-Library-Project\Clinic Managment\DataAccessSettings\obj\Debug\DataAccessSettings.pdb
