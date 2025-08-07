@@ -120,6 +120,7 @@ namespace ClinicManagment
                     MessageBoxIcon.Information
                 );
                 mode = enMode.Update;
+                _UserID = user.ID;
                 AddOrUpdateUser_Load(null, null);
             }
             else

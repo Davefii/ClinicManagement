@@ -22,6 +22,7 @@ namespace ClinicManagment
         {
             AddOrUpdateUser addOrUpdateUser = new AddOrUpdateUser();
             addOrUpdateUser.ShowDialog();
+            ListUsers_Load(null, null);
         }
 
         private void ListUsers_Load(object sender, EventArgs e)
