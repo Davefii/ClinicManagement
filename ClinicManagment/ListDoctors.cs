@@ -29,7 +29,12 @@ namespace ClinicManagment
         private void button1_Click(object sender, EventArgs e)
         {
             AddorUpdateDoctors addorUpdateDoctors = new AddorUpdateDoctors();
-            addorUpdateDoctors.ShowDialog();
+            if (clsGlobal.CheckPermition(clsUsers.enMainMenuPermitions.AddDoctor))
+            {
+                addorUpdateDoctors.ShowDialog();
+                return;
+            }
+            MessageBox.Show("Access Denid Please Contact Admin", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             ListDoctors_Load(null,null);
         }
 
@@ -37,7 +42,12 @@ namespace ClinicManagment
         {
             int DoctorID = (int)dataGridView1.CurrentRow.Cells[0].Value;
             AddorUpdateDoctors addorUpdateDoctors = new AddorUpdateDoctors(DoctorID);
-            addorUpdateDoctors.ShowDialog();
+            if (clsGlobal.CheckPermition(clsUsers.enMainMenuPermitions.AddDoctor))
+            {
+                addorUpdateDoctors.ShowDialog();
+                return;
+            }
+            MessageBox.Show("Access Denid Please Contact Admin", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             ListDoctors_Load(null, null);
         }
 

@@ -21,7 +21,12 @@ namespace ClinicManagment
         private void button1_Click(object sender, EventArgs e)
         {
             AddOrUpdateUser addOrUpdateUser = new AddOrUpdateUser();
-            addOrUpdateUser.ShowDialog();
+            if (clsGlobal.CheckPermition(clsUsers.enMainMenuPermitions.AddUser))
+            {
+                addOrUpdateUser.ShowDialog();
+                return;
+            }
+            MessageBox.Show("Access Denid Please Contact Admin", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             ListUsers_Load(null, null);
         }
 
