@@ -4,3 +4,9 @@ D:\File-String-Library-Project\Clinic Managment\DataAccessSettings\obj\Debug\Dat
 D:\File-String-Library-Project\Clinic Managment\DataAccessSettings\obj\Debug\DataAccessSettings.csproj.CoreCompileInputs.cache
 D:\File-String-Library-Project\Clinic Managment\DataAccessSettings\obj\Debug\DataAccessSettings.dll
 D:\File-String-Library-Project\Clinic Managment\DataAccessSettings\obj\Debug\DataAccessSettings.pdb
+E:\SourceGit\Davefii\ClinicManagement\DataAccessSettings\bin\Debug\DataAccessSettings.dll
+E:\SourceGit\Davefii\ClinicManagement\DataAccessSettings\bin\Debug\DataAccessSettings.pdb
+E:\SourceGit\Davefii\ClinicManagement\DataAccessSettings\obj\Debug\DataAccessSettings.csproj.AssemblyReference.cache
+E:\SourceGit\Davefii\ClinicManagement\DataAccessSettings\obj\Debug\DataAccessSettings.csproj.CoreCompileInputs.cache
+E:\SourceGit\Davefii\ClinicManagement\DataAccessSettings\obj\Debug\DataAccessSettings.dll
+E:\SourceGit\Davefii\ClinicManagement\DataAccessSettings\obj\Debug\DataAccessSettings.pdb

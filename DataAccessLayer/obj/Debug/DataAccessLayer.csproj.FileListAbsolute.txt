@@ -7,3 +7,12 @@ D:\File-String-Library-Project\Clinic Managment\DataAccessLayer\obj\Debug\DataAc
 D:\File-String-Library-Project\Clinic Managment\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
 D:\File-String-Library-Project\Clinic Managment\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 D:\File-String-Library-Project\Clinic Managment\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\SourceGit\Davefii\ClinicManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\SourceGit\Davefii\ClinicManagement\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\SourceGit\Davefii\ClinicManagement\DataAccessLayer\bin\Debug\DataAccessSettings.dll
+E:\SourceGit\Davefii\ClinicManagement\DataAccessLayer\bin\Debug\DataAccessSettings.pdb
+E:\SourceGit\Davefii\ClinicManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+E:\SourceGit\Davefii\ClinicManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\SourceGit\Davefii\ClinicManagement\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+E:\SourceGit\Davefii\ClinicManagement\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\SourceGit\Davefii\ClinicManagement\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

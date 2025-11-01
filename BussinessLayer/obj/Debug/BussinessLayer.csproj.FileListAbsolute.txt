@@ -9,3 +9,14 @@ D:\File-String-Library-Project\Clinic Managment\BussinessLayer\bin\Debug\DataAcc
 D:\File-String-Library-Project\Clinic Managment\BussinessLayer\obj\Debug\Bussines.E1038C4E.Up2Date
 D:\File-String-Library-Project\Clinic Managment\BussinessLayer\obj\Debug\BussinessLayer.dll
 D:\File-String-Library-Project\Clinic Managment\BussinessLayer\obj\Debug\BussinessLayer.pdb
+E:\SourceGit\Davefii\ClinicManagement\BussinessLayer\bin\Debug\BussinessLayer.dll
+E:\SourceGit\Davefii\ClinicManagement\BussinessLayer\bin\Debug\BussinessLayer.pdb
+E:\SourceGit\Davefii\ClinicManagement\BussinessLayer\bin\Debug\DataAccessLayer.dll
+E:\SourceGit\Davefii\ClinicManagement\BussinessLayer\bin\Debug\DataAccessSettings.dll
+E:\SourceGit\Davefii\ClinicManagement\BussinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\SourceGit\Davefii\ClinicManagement\BussinessLayer\bin\Debug\DataAccessSettings.pdb
+E:\SourceGit\Davefii\ClinicManagement\BussinessLayer\obj\Debug\BussinessLayer.csproj.AssemblyReference.cache
+E:\SourceGit\Davefii\ClinicManagement\BussinessLayer\obj\Debug\BussinessLayer.csproj.CoreCompileInputs.cache
+E:\SourceGit\Davefii\ClinicManagement\BussinessLayer\obj\Debug\Bussines.E1038C4E.Up2Date
+E:\SourceGit\Davefii\ClinicManagement\BussinessLayer\obj\Debug\BussinessLayer.dll
+E:\SourceGit\Davefii\ClinicManagement\BussinessLayer\obj\Debug\BussinessLayer.pdb
